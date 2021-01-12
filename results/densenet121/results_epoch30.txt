@@ -1,0 +1,6 @@
+Testing results on 1571 images:
+	Mean Accuracy:  0.9369828134945895 
+	Precision: [0.94285714 0.92294807 0.984375  ] 
+	Recall:    [0.96949153 0.92760943 0.68478261] 
+	F1 score:  [0.95598886 0.92527288 0.80769231] 
+Classes: normal, pneumonia, COVID-19
